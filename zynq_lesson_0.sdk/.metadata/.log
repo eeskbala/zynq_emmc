@@ -1,0 +1,12 @@
+!SESSION 2014-08-27 15:18:27.276 -----------------------------------------------
+eclipse.buildId=2014.2
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:/zynq/zynq_lesson_0/zynq_lesson_0.sdk
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-08-27 15:20:59.391
+!MESSAGE Indexed 'Zynq_Design_bsp' (128 sources, 153 headers) in 3.85 sec: 6,464 declarations; 30,751 references; 65 unresolved inclusions; 9 syntax errors; 38 unresolved names (0.10%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-08-27 15:21:00.611
+!MESSAGE Indexed 'Zynq_Design' (12 sources, 57 headers) in 1.20 sec: 1,594 declarations; 7,111 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)

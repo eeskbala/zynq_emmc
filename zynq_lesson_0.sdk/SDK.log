@@ -1,0 +1,7 @@
+15:18:50 INFO  : Processing command line option -hwspec D:/zynq/zynq_lesson_0/zynq_lesson_0.sdk/zynq_design_1_wrapper.hdf.
+15:23:26 INFO  : Invoking Bootgen: bootgen -image zynq_fsbl.bif -o i d:\zynq\fsbl\BOOT.bin
+15:23:26 INFO  : Creating new bif file d:\zynq\fsbl\zynq_fsbl.bif
+15:23:27 INFO  : Bootgen command execution is done.
+15:45:33 INFO  : Invoking Bootgen: bootgen -image zynq_fsbl.bif -o i D:\zynq\fsbl\BOOT.bin -w on
+15:45:33 INFO  : Overwriting existing bif file D:\zynq\fsbl\zynq_fsbl.bif
+15:45:33 INFO  : Bootgen command execution is done.
